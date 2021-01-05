@@ -3,6 +3,8 @@ git init
 git status
     Tells you the status of all files, including which files are being tracked and which are staged for commit.
 git add <file>
-    Tells git to track a specific file.
+    Tells git to include a specific file. Must be done for each edit.
 git rm
     Tells git to stop tracking a specific file.
+git commit -m "Commit Message"
+    Commit your changes to the online repository.
