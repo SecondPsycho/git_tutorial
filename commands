@@ -8,3 +8,9 @@ git rm
     Tells git to stop tracking a specific file.
 git commit -m "Commit Message"
     Commit your changes to the online repository.
+git checkout -b "Branch_Name"
+    Create a new Branch. When you save your commit, it will be saved separately from the other branches. It does not copy the files on your machine.
+git checkout <branch>
+    Switch to a different branch.
+git branch
+    Observe a list of all branches, and see which one you're in.
