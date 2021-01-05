@@ -1,0 +1,8 @@
+git init
+    Turns the current directory into a git repository.
+git status
+    Tells you the status of all files, including which files are being tracked and which are staged for commit.
+git add <file>
+    Tells git to track a specific file.
+git rm
+    Tells git to stop tracking a specific file.
