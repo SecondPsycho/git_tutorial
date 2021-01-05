@@ -16,7 +16,7 @@ git branch
     Observe a list of all branches, and see which one you're in.
 git branch -M "name"
     Rename current branch
-git remove add origin https://github.com/<username>/<repositoryname>.git
+git remote add origin https://github.com/<username>/<repositoryname>.git
     If you've created a repository online, link to it. Your username is "SecondPsycho".
 git push -u origin <branchname>
     Push to the repository you've linkted to. Username and Password required.
