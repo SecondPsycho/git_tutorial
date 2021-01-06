@@ -23,4 +23,4 @@ git push -u origin <branchname>
 git pull origin <branchname>
     Pull the specified branch from the website.
 git log
-    See commits.
+    See commit history.
