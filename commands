@@ -22,3 +22,5 @@ git push -u origin <branchname>
     Push to the repository you've linkted to. Username and Password required.
 git pull origin <branchname>
     Pull the specified branch from the website.
+git log
+    See commits.
